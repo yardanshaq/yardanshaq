@@ -47,7 +47,7 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
-<h3 align="left">📊 GitHub Activity:</h3>
+<h3 align="center">📊 GitHub Activity:</h3>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yardanshaq&show_icons=true&theme=dark&locale=en" alt="yardanshaq" /></td>
