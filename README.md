@@ -99,8 +99,8 @@ A creative online photobooth that brings the fun of event photography to your br
 
 #### 🔵 URL Shortener
 ```
-STATUS: BETA
-ACCESS: LIMITED
+STATUS: ACTIVE
+ACCESS: PUBLIC
 ```
 A modern and responsive web-based URL shortener built to simplify the way links are shared and managed. Cecilefy allows users to quickly generate short, clean, and customizable URLs with ease. The platform features a sleek and intuitive interface, offering seamless link creation, tracking, and management directly from the browser. Optimized for both desktop and mobile, it ensures fast performance and a smooth user experience. This project emphasizes the use of modern web technologies to deliver a reliable, scalable, and user-friendly solution for managing links, focusing on simplicity, efficiency, and accessibility.
 
