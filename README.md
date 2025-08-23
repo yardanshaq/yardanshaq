@@ -3,7 +3,7 @@
 
 - 👨‍💻 Full-Stack Developer based in Probolinggo, Indonesia.
 - 📫 How to reach me: [yshaff040302@gmail.com](yshaff040302@gmail.com)
-- 📱 Crafted the [Cecilefy URL Shortener](https://sppuprep.vercel.app))
+- 📱 Crafted the ([Cecilefy URL Shortener](https://www.cecilefy.xyz)
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://www.yardansh.xyz)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
