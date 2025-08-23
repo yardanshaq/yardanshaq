@@ -97,16 +97,17 @@ A creative online photobooth that brings the fun of event photography to your br
 </td>
 <td width="33%">
 
-#### 🔵 Hotspot Login Page
+#### 🔵 URL Shortener
 ```
 STATUS: BETA
 ACCESS: LIMITED
 ```
-A responsive login page designed for MikroTik hotspot authentication. This project focuses on simplicity and mobile-friendly design, ensuring users can easily log in on any device. The layout adapts seamlessly across desktops, tablets, and smartphones, providing a smooth experience with modern UI components. Featuring clear input fields, customizable branding, and lightweight CSS, the page is easy to integrate with MikroTik’s hotspot system. Perfect for network administrators who want both functionality and professional design in their captive portal.
+A modern and responsive web-based URL shortener built to simplify the way links are shared and managed. Cecilefy allows users to quickly generate short, clean, and customizable URLs with ease. The platform features a sleek and intuitive interface, offering seamless link creation, tracking, and management directly from the browser. Optimized for both desktop and mobile, it ensures fast performance and a smooth user experience. This project emphasizes the use of modern web technologies to deliver a reliable, scalable, and user-friendly solution for managing links, focusing on simplicity, efficiency, and accessibility.
 
-**TECH_STACK:** `[Your project3Tech]`
+**TECH_STACK:** `JavaCript, CSS, HTML, Dockerfile`
 
-[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([https://github.com/yardanshaq/Cecile-Hotspot])
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([https://github.com/yardanshaq/Cecilefy])
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cecilefy.xyz)
 
 </td>
 </tr>
