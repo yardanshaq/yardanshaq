@@ -6,9 +6,6 @@
 - 📱 Crafted the [Cecilefy URL Shortener](https://www.cecilefy.xyz)
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://www.yardansh.xyz)! 💻❤️
 
-<h3 align="left">🎵 Now Playing / Listen:</h3>
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=1c525214275a4919)
-
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="mailto:yshaff040302@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
