@@ -106,8 +106,7 @@ A responsive login page designed for MikroTik hotspot authentication. This proje
 
 **TECH_STACK:** `[Your project3Tech]`
 
-[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
-[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)]([Your project3Link])
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([https://github.com/yardanshaq/Cecile-Hotspot])
 
 </td>
 </tr>
